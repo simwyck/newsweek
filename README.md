@@ -1,3 +1,3 @@
 # Better NewsWeek
 
-Heroku:
+Heroku: https://j33-newsweek-swy.herokuapp.com/
